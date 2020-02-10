@@ -1,7 +1,7 @@
 ## CalculadoraReact
 > Calculadora simples feita em React, inspirada na calculadora padrão do macOS.
 
-![](/src/img/calc.png)
+![](./src/img/calc.png)
 
 ### Instalação
 

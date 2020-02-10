@@ -3,8 +3,6 @@
 
 ![](/src/img/calc.png)
 
-In the project directory, you can run:
-
 ### Instalação
 
 Basta clonar o repositório:
